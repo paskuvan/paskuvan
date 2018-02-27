@@ -44,7 +44,7 @@ body{
     width:100%;
     display:block;
     height:2px;
-    background:#E42C4A;
+    background:#0984e3;
     -webkit-transition:all .3s;
     -moz-transition:all .3s;
     -o-transition:all .3s;
@@ -65,35 +65,35 @@ body{
     width:100%;
     display:block;
     height:2px;
-    background:#E42C4A;
+    background:#0984e3;
     -webkit-transition:all .3s;
     -moz-transition:all .3s;
     -o-transition:all .3s;
     transition:all .3s
 }
 .navbar ul li a:hover{
-    color:#E42C4A!important
+    color:#0984e3!important
 }
 .navbar-fixed-top .active a{
     background:none!important;
-    color:#E42C4A!important
+    color:#0984e3!important
 }
 .navbar ul li.active a::after{
     content:'';
     width:100%;
     display:block;
     height:2px;
-    background:#E42C4A
+    background:#0984e3
 }
 .navbar ul li.active a::before{
     content:'';
     width:100%;
     display:block;
     height:2px;
-    background:#E42C4A
+    background:#0984e3
 }
 .navbar-fixed-top .active a:hover{
-    color:#E42C4A!important
+    color:#0984e3!important
 }
 .navbar-brand img{
     position:relative;
@@ -113,13 +113,13 @@ body{
     transition:all .7s
 }
 .navbar.navbar-fixed-top.fixed-theme a:hover{
-    color:#E42C4A!important
+    color:#0984e3!important
 }
 .navbar.navbar-fixed-top.fixed-theme .active a{
-    color:#E42C4A!important
+    color:#0984e3!important
 }
 .navbar.navbar-fixed-top.fixed-theme .active a:hover{
-    color:#E42C4A!important
+    color:#0984e3!important
 }
 .navbar-brand.fixed-theme{
     font-size:18px
@@ -255,8 +255,8 @@ body{
 #intro .subtitle{
     background:#0f0f0f;
     padding:20px 0 20px 0;
-    border-top:10px solid #E42C4A;
-    border-right:10px solid #E42C4A;
+    border-top:10px solid #0984e3;
+    border-right:10px solid #0984e3;
     border-bottom:10px solid #cdcdcd;
     border-left:10px solid #cdcdcd
 }
@@ -271,7 +271,7 @@ body{
 .simple-line-2{
     height:200px;
     width:3px;
-    background:#E42C4A;
+    background:#0984e3;
     position:absolute;
     bottom:10%;
     right:0;
@@ -299,7 +299,7 @@ body{
     flex-direction:column
 }
 #about{
-    background:#E42C4A;
+    background:#0984e3;
     position:relative;
     overflow:hidden!important;
     transition-duration:.2s;
@@ -431,7 +431,7 @@ body{
 #about .about-item-title:hover::after{
     content:'';
     width:100%;
-    background:#E42C4A
+    background:#0984e3
 }
 #counter-facts-wrapper{
     display:-webkit-box;
@@ -598,7 +598,7 @@ body{
     line-height:1.1
 }
 #services .highlight{
-    background:#E42C4A;
+    background:#0984e3;
     padding:0 20px 0 20px
 }
 #services .icon i{
@@ -622,7 +622,7 @@ body{
 }
 #services .services-item-title{
     background:#494949;
-    border:6px solid #E42C4A;
+    border:6px solid #0984e3;
     padding:20px 0 20px 0;
     -webkit-transition:all .3s;
     -moz-transition:all .3s;
@@ -650,7 +650,7 @@ body{
 #services .services-item-title:hover::after{
     content:'';
     width:100%;
-    background:#E42C4A
+    background:#0984e3
 }
 #services .frame{
     display:block;
@@ -752,13 +752,13 @@ body{
 }
 #social-links .call-to-action:hover{
     color:#0f0f0f;
-    background:#E42C4A;
+    background:#0984e3;
     text-decoration:none;
     padding:5px 10px 5px 10px
 }
 #social-links .call-to-action:focus{
     color:#0f0f0f;
-    background:#E42C4A;
+    background:#0984e3;
     text-decoration:none;
     padding:5px 10px 5px 10px
 }
@@ -770,7 +770,7 @@ section#portfolio{
     z-index:11!important
 }
 #portfolio .highlight{
-    background:#E42C4A;
+    background:#0984e3;
     padding:0 20px 0 20px
 }
 #portfolio .title{
@@ -868,7 +868,7 @@ section#portfolio{
     position:absolute;
     z-index:1;
     background:#0f0f0f;
-    border:50px solid #E42C4A;
+    border:50px solid #0984e3;
     text-align:center;
     -webkit-transform:translateZ(0);
     transform:translateZ(0)
@@ -927,13 +927,13 @@ section#portfolio{
     box-shadow:none;
     outline:none!important;
     background:#0f0f0f;
-    color:#E42C4A
+    color:#0984e3
 }
 .portfolio-filter button.btn:hover{
     box-shadow:none;
     outline:none!important;
     background:#0f0f0f;
-    color:#E42C4A
+    color:#0984e3
 }
 #message-wrapper{
     display:-webkit-box;
@@ -1010,13 +1010,13 @@ section#portfolio{
 }
 #message .call-to-action:hover{
     color:#0f0f0f;
-    background:#E42C4A;
+    background:#0984e3;
     text-decoration:none;
     padding:5px 10px 5px 10px
 }
 #message .call-to-action:focus{
     color:#0f0f0f;
-    background:#E42C4A;
+    background:#0984e3;
     text-decoration:none;
     padding:5px 10px 5px 10px
 }
@@ -1051,7 +1051,7 @@ section#portfolio{
     max-width:100%
 }
 #team .highlight{
-    background:#E42C4A;
+    background:#0984e3;
     padding:0 20px 0 20px
 }
 #team .title{
@@ -1117,7 +1117,7 @@ section#portfolio{
     z-index:0;
     position:relative;
     background:#494949;
-    box-shadow:0 0 0 6px #E42C4A;
+    box-shadow:0 0 0 6px #0984e3;
     padding:10px;
     box-sizing:border-box
 }
@@ -1189,7 +1189,7 @@ section#portfolio{
     transition:all .6s
 }
 .team-social-item i:hover{
-    background:#E42C4A;
+    background:#0984e3;
     padding-bottom:20px
 }
 #testimonials-wrapper{
@@ -1261,11 +1261,11 @@ section#portfolio{
     border:3px solid #fff
 }
 #testimonials .carousel-indicators li:hover{
-    border:3px solid #E42C4A
+    border:3px solid #0984e3
 }
 #testimonials .carousel-indicators li.active{
     opacity:1;
-    border:3px solid #E42C4A;
+    border:3px solid #0984e3;
     background:0
 }
 #testimonials .carousel-indicators li img{
@@ -1356,11 +1356,11 @@ section#portfolio{
     font-weight:700
 }
 .btn-contact:hover{
-    color:#E42C4A!important;
+    color:#0984e3!important;
     background:#0f0f0f
 }
 #contact-section .highlight{
-    background:#E42C4A;
+    background:#0984e3;
     padding:0 20px 0 20px
 }
 #contact-section .title{
@@ -1439,7 +1439,7 @@ section#portfolio{
     position:relative;
     width:100%;
     height:300px;
-    background-color:#E42C4A;
+    background-color:#0984e3;
     z-index:11
 }
 #cd-google-map{
@@ -1451,7 +1451,7 @@ section#portfolio{
     bottom:0;
     left:0;
     padding:25px 25px;
-    background-color:#E42C4A;
+    background-color:#0984e3;
     font-size:13px;
     z-index:11
 }
@@ -1460,7 +1460,7 @@ section#portfolio{
     width:32px;
     cursor:pointer;
     margin-left:10px;
-    background-color:#E42C4A;
+    background-color:#0984e3;
     background-repeat:no-repeat;
     background-size:32px 64px;
     background-image:url("../images/controller.svg")
