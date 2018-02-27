@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,700');
 @font-face {
-    font-family: 'jaapokki';
-    src: url('../fonts/jaapokkienchance-regular-webfont.eot');
-    src: url('../fonts/jaapokkienchance-regular-webfontd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/jaapokkienchance-regular-webfont.woff2') format('woff2'), url('../fonts/jaapokkienchance-regular-webfont.woff') format('woff'), url('../fonts/jaapokkienchance-regular-webfont.ttf') format('truetype'), url('../fonts/jaapokkienchance-regular-webfont.svg#jaapokki_enchanceregular') format('svg');
+    font-family: 'Cabin', sans-serif;
     font-weight: normal;
     font-style: normal;
 }
+
 
 
 body {
@@ -13,7 +12,7 @@ body {
     color: #fff;
     line-height: 1.3;
     -webkit-font-smoothing: antialiased;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cabin', sans-serif;
 }
 
 
@@ -256,7 +255,7 @@ body {
     font-size: 120px;
     font-weight: 700;
     text-align: center;
-    font-family: 'jaapokki', sans-serif;
+    font-family: 'Cabin', sans-serif;
     line-height: 150px !important;
     letter-spacing: 5px;
 }
@@ -350,7 +349,7 @@ body {
 }
 #about .title {
     font-size: 18px;
-    font-family: 'jaapokki', sans-serif;
+    font-family: 'Cabin', sans-serif;
     letter-spacing: 2px;
     background: #0f0f0f;
     padding: 15px 0px 15px 0px;
@@ -358,7 +357,7 @@ body {
 }
 #about .title-2 {
     font-size: 18px;
-    font-family: 'jaapokki', sans-serif;
+    font-family: 'Cabin', sans-serif;
     letter-spacing: 2px;
     padding: 15px 15px 15px 0px;
     position: relative;
@@ -578,7 +577,7 @@ body {
 }
 #services .title {
     font-size: 18px;
-    font-family: 'jaapokki', sans-serif;
+    font-family: 'Cabin', sans-serif;
     letter-spacing: 2px;
     background: #0f0f0f;
     padding: 15px 0px 15px 0px;
@@ -586,7 +585,7 @@ body {
 }
 #services .title-2 {
     font-size: 18px;
-    font-family: 'jaapokki', sans-serif;
+    font-family: 'Cabin', sans-serif;
     letter-spacing: 2px;
     padding: 15px 15px 15px 0px;
     position: relative;
@@ -830,7 +829,7 @@ section#portfolio {
 }
 #portfolio .title {
     font-size: 18px;
-    font-family: 'jaapokki', sans-serif;
+    font-family: 'Cabin', sans-serif;
     letter-spacing: 2px;
     background: #0f0f0f;
     padding: 15px 0px 15px 0px;
@@ -856,7 +855,7 @@ section#portfolio {
 }
 #portfolio .title-2 {
     font-size: 18px;
-    font-family: 'jaapokki', sans-serif;
+    font-family: 'Cabin', sans-serif;
     letter-spacing: 2px;
     padding: 15px 15px 15px 0px;
     position: relative;
@@ -1129,7 +1128,7 @@ section#portfolio {
 }
 #team .title {
     font-size: 18px;
-    font-family: 'jaapokki', sans-serif;
+    font-family: 'Cabin', sans-serif;
     letter-spacing: 0.5px;
     background: #0f0f0f;
     padding: 15px 0px 15px 0px;
@@ -1155,7 +1154,7 @@ section#portfolio {
 }
 #team .title-2 {
     font-size: 18px;
-    font-family: 'jaapokki', sans-serif;
+    font-family: 'Cabin', sans-serif;
     letter-spacing: 2px;
     padding: 15px 15px 15px 0px;
     position: relative;
@@ -1460,7 +1459,7 @@ section#portfolio {
 }
 #contact-section .title {
     font-size: 18px;
-    font-family: 'jaapokki', sans-serif;
+    font-family: 'Cabin', sans-serif;
     letter-spacing: 0.5px;
     background: #0f0f0f;
     padding: 15px 0px 15px 0px;
@@ -1486,7 +1485,7 @@ section#portfolio {
 }
 #contact-section .title-2 {
     font-size: 18px;
-    font-family: 'jaapokki', sans-serif;
+    font-family: 'Cabin', sans-serif;
     letter-spacing: 2px;
     padding: 15px 15px 15px 0px;
     position: relative;
