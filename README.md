@@ -1,7 +1,7 @@
 <h2> Hi, I'm Majo! 🚀</h2>
 <p>Frontend Developer - UX/UI Designer - Deaf Person </p>
 <b>ModeNERD<b>🤓
- <img align='right' src="https://paskuvan.us/assets/images/character01.jpg" width="400" height="auto">
+ <img align='right' src="https://paskuvan.us/assets/images/character01.jpg" width="280" height="auto">
 
 ## Quick overview
 GitHub stats:  
