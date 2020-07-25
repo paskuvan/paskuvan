@@ -29,11 +29,13 @@ Check my latest github: <a class="post" href="https://github.com/paskuvan/radiog
 
 ## Tools
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg" alt="photoshop" width="70" />
-  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg" alt="illustrator" width="70"/> 
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="sketch" width="70" /> 
-  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="trello" width="70"/> 
-  <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="git" width="70"/> 
+  <img src="https://img.shields.io/badge/Illustrator-OK-F37021?style=for-the-badge&logo=adobe-illustrator"/>
+<img src="https://img.shields.io/badge/Sketch-OK-adobeillustrator?style=for-the-badge&logo=sketch"/>
+<img src="https://img.shields.io/badge/Trello-OK-0079BF?style=for-the-badge&logo=trello"/>
+<img src="https://img.shields.io/badge/Photoshop-OK-26C9FF?style=for-the-badge&logo=adobe-photoshop"/>
+<img src="https://img.shields.io/badge/Code-OK-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+<img src="https://img.shields.io/badge/iOs-OK-000000?style=for-the-badge&logo=ios"/>
+<img src="https://img.shields.io/badge/Github-OK-181717?style=for-the-badge&logo=github"/>
  
 </p>
 
