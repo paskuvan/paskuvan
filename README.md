@@ -26,16 +26,17 @@ Check my latest github: <a class="post" href="https://github.com/paskuvan/radiog
    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="rails" width="70"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="ruby" width="70"/>
     <img src="https://www.vectorlogo.zone/logos/w3c_validator/w3c_validator-ar21.svg" alt="nodejs" width="70"/>
+  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="nodejs" width="70"/>
 </p>
 
 ## Tools
 <p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/illustrator/illustrator-line.svg" alt="illustrator" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/sketch/sketch-line-wordmark.svg" alt="sketch" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg" alt="photoshop" width="70" />
+  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-ar21.svg" alt="illustrator" width="70"/> 
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="sketch" width="70" /> 
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="trello" width="70"/> 
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="git" width="70"/> 
+ 
 </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/paskuvan/count.svg)
