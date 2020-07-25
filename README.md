@@ -16,17 +16,15 @@ Check my latest github: <a class="post" href="https://github.com/paskuvan/radiog
 
 ## Languages
 <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="70" alt="html5"/> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="css" width="70"/> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="70"/> 
-    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jquery" width="70"/>
-    <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg" alt="php" width="70"/>
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="70"/> 
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="mysql" width="70"/> 
-   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="rails" width="70"/> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="ruby" width="70"/>
-    <img src="https://www.vectorlogo.zone/logos/w3c_validator/w3c_validator-ar21.svg" alt="nodejs" width="70"/>
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="nodejs" width="70"/>
+    <img src="https://img.shields.io/badge/HTML5-OK-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-OK-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Javascript-OK-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Jquery-OK-0769AD?style=for-the-badge&logo=jquery"/>
+<img src="https://img.shields.io/badge/PHP-OK-777BB4?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/Ruby-OK-CC342D?style=for-the-badge&logo=ruby"/>
+<img src="https://img.shields.io/badge/RoR-OK-CC0000?style=for-the-badge&logo=rubyonrails"/>
+<img src="https://img.shields.io/badge/Bootstrap-OK-563D7C?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/Git-OK-F05032?style=for-the-badge&logo=git"/>
 </p>
 
 ## Tools
