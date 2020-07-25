@@ -16,16 +16,16 @@ Check my latest github: <a class="post" href="https://github.com/paskuvan/radiog
 
 ## Languages
 <p align="left">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="50" height="50"/>
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/> 
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-   <img src="https://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/> 
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="50" height="50"/>
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="70" alt="html5"/> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="css" width="70"/> 
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="70"/> 
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jquery" width="70"/>
+    <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg" alt="php" width="70"/>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="70"/> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="mysql" width="70"/> 
+   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="rails" width="70"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="ruby" width="70"/>
+    <img src="https://www.vectorlogo.zone/logos/w3c_validator/w3c_validator-ar21.svg" alt="nodejs" width="70"/>
 </p>
 
 ## Tools
