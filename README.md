@@ -25,7 +25,7 @@ Check my latest github: <a class="post" href="https://github.com/paskuvan/radiog
 [![Linkedin: María José Paschcuan](https://img.shields.io/badge/-paskuvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paskuvan/)](https://www.linkedin.com/in/paskuvan/)
 [![GitHub Paskuvan](https://img.shields.io/github/followers/paskuvan?label=follow&style=social)](https://github.com/paskuvan)
 
-## Languages - Frameworks - Tools - Social
+## Languages - Frameworks - Tools
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30" style="margin:0 30px;"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30" style="margin:0 30px;"/> 
