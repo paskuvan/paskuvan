@@ -26,36 +26,31 @@ Check my latest github: <a class="post" href="https://github.com/paskuvan/radiog
 [![GitHub Paskuvan](https://img.shields.io/github/followers/paskuvan?label=follow&style=social)](https://github.com/paskuvan)
 
 ## Languages 
-<p align="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" style="margin:30px;"/> 
-   </p>
+Languages
+- HTML5/CSS3 (I know it’s not a programming language)
+- PHP
+- Ruby On Rails
+- Javascript
 
-## Frameworks 
-<p align="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30" style="margin:30px;"/> 
-</p>
+Frameworks
+- Bootstrap
+- Bulma
+- Materialize
+- SASS
 
-## Tools
-<p align="left">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30" style="margin:30px;"/> 
-     <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="30" height="30"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30" style="margin:30px;"/> 
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30" style="margin:30px;"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" style="margin:30px;"/> 
-</p>
+Tools UX/UI 
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe XD
+- Sketch
+- Invisionapp
+
+Tools Development
+- Github
+- Visual Studio Code
+- Mamp
+- iTerm
+
 
 
 
