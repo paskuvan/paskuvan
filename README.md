@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.tenor.com/JKQCiyOKYlEAAAAi/happy-anime.gif" height="150" alt="sailor moon"/>
+</div>
 <h1 align="center">Hi 👋, I'm Majo</h1>
 <h3 align="center">I'm FrontEnd Developer - UX/UI Designer based in 🇨🇱</h3>
 <p align="center">I design digital products with accessibility in mind from day one.  <br>
@@ -31,6 +34,9 @@ Building interfaces that speak clearly — without sound.</p>
 ## 📊GitHub Stats :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paskuvan&theme=aura_dark)
+
+## 🥇Top languages
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paskuvan&theme=aura_dark)
 
 ## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
