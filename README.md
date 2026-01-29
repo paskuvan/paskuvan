@@ -33,7 +33,9 @@ Building interfaces that speak clearly — without sound.</p>
 
 ## 📊GitHub Stats :
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paskuvan&theme=aura_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=paskuvan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=paskuvan&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=paskuvan&layout=compact&theme=radical)
 
 ## 🥇Top languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paskuvan&theme=aura_dark)
