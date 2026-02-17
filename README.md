@@ -31,6 +31,58 @@ Building interfaces that speak clearly — without sound.</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
 </div>
 
+## 🚀 Featured Projects
+
+### 🧩 [SignaJobs](https://signa-jobs.vercel.app)
+Inclusive job platform designed for the Deaf community.  
+Focus on accessibility-first UX, inclusive hiring workflows and scalable frontend architecture.  
+**Next.js · Accessibility · UX Strategy**
+
+---
+
+### 📕 [Converso](https://lms-nextjs-navy.vercel.app/)
+Modern SaaS LMS built with Next.js and Supabase.  
+Authentication, protected routes and production-ready structure.  
+**Next.js · Supabase · Tailwind · SaaS Architecture**
+
+---
+
+### ✅ [TaskFlow](https://paskuvan.github.io/taskflow/)
+Task management application implementing Object-Oriented Programming principles.  
+Clean component architecture and state handling.  
+**React · Tailwind · Modular Architecture**
+
+---
+
+### 🎓 [Learning React](https://learning-reactjs-sigma.vercel.app/)
+Practical React project focused on reusable components and modern ES6 patterns.  
+**React · JavaScript ES6**
+
+---
+
+### 🌐 [Modern Web](https://paskuvan.github.io/modern-web/)
+Responsive website built with clean UI structure and frontend best practices.  
+**HTML · CSS · JavaScript**
+
+---
+
+### 🚀 [Landing React](https://landing-react-hvv2qmyca-paskuvans-projects.vercel.app/)
+High-conversion landing page focused on performance, animations and UI clarity.  
+**React · UI/UX · Performance Optimization**
+
+---
+
+
+## 🛠 Core Skills
+
+- Frontend Architecture
+- Accessible Design (WCAG mindset)
+- Component-based Development
+- Design Systems Thinking
+- Performance Optimization
+- Inclusive Product Strategy
+
+
 ## 📊GitHub Stats :
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=paskuvan&show_icons=true&theme=radical)
