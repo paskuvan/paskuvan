@@ -96,12 +96,4 @@ High-conversion landing page focused on performance, animations and UI clarity.
 ## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 👁️GitHub Views
-
-[![Majo Paskuvan profile views](https://u8views.com/api/v1/github/profiles/5359079/views/day-week-month-total-count.svg)](https://u8views.com/github/paskuvan)
-
-
-
-
-
 
