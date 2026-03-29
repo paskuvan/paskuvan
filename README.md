@@ -82,6 +82,12 @@ High-conversion landing page focused on performance, animations and UI clarity.
 
 ---
 
+### 🗣️ [Voz Inclusiva](https://voz-inclusiva-pearl.vercel.app/)
+Turn your words into voice for your videos and reels.  
+**React**
+
+---
+
 
 ## 🛠 Core Skills
 
