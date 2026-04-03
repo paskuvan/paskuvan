@@ -80,23 +80,14 @@ Responsive website built with clean UI structure and frontend best practices.
 High-conversion landing page focused on performance, animations and UI clarity.  
 **React · UI/UX · Performance Optimization**
 
----
+### Featured projects
 
-### 🗣️ [Voz Inclusiva](https://voz-inclusiva-pearl.vercel.app/)
-Turn your words into voice for your videos and reels.  
-**React**
+| Project | Description |
+|---|---|
+| 🌿 [**Palma**](https://github.com/paskuvan/palma) | Emergency SOS app for deaf people in Chile — one tap sends GPS to Carabineros |
+| 📦 [**deaf-css**](https://github.com/paskuvan/deaf-css) | CSS accessibility framework for the Deaf and hard-of-hearing community |
+| 🔊 [**Voz Inclusiva**](https://github.com/paskuvan/voz-inclusiva) | Text-to-speech web app built with Next.js + Python/FastAPI |
 
----
-
-
-## 🛠 Core Skills
-
-- Frontend Architecture
-- Accessible Design (WCAG mindset)
-- Component-based Development
-- Design Systems Thinking
-- Performance Optimization
-- Inclusive Product Strategy
 
 
 ## 📊GitHub Stats :
