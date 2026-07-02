@@ -1,106 +1,180 @@
 <div align="center">
-  <img src="https://media.tenor.com/JKQCiyOKYlEAAAAi/happy-anime.gif" height="150" alt="sailor moon"/>
-</div>
-<h1 align="center">Hi 👋, I'm Majo</h1>
-<h3 align="center">I'm FrontEnd Developer - UX/UI Designer based in 🇨🇱</h3>
-<p align="center">I design digital products with accessibility in mind from day one.  <br>
-As a Deaf advocate in tech, I believe inclusive design creates better experiences for everyone. <br> 
-Building interfaces that speak clearly — without sound.</p>
 
-## 🌐Socials
+# Hi, I'm Majo Paskuvan 👋
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/paskuvan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ux.majo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paskuvan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@majopaskuvan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/paskuvan) 
+### Frontend Developer • UX/UI Designer • Accessibility Advocate
 
-## 💻Tech Stack
+Designing digital experiences that are intuitive, inclusive, and built for everyone.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge)](https://paskuvan.us)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/paskuvan)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance)](https://behance.net/paskuvan)
+[![Instagram](https://img.shields.io/badge/Instagram-@ux.majo-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/ux.majo)
+
 </div>
 
-## 🚀 Featured Projects
+---
 
-### 🧩 [SignaJobs](https://signa-jobs.vercel.app)
-Inclusive job platform designed for the Deaf community.  
-Focus on accessibility-first UX, inclusive hiring workflows and scalable frontend architecture.  
-**Next.js · Accessibility · UX Strategy**
+# About Me
+
+I'm a Frontend Developer and UX/UI Designer based in Chile.
+
+For more than 10 years I've been creating digital products, interfaces and web experiences focused on usability, accessibility and clean design.
+
+I enjoy transforming complex problems into simple experiences through design systems, modern frontend technologies and user-centered thinking.
 
 ---
 
-### 📕 [Converso](https://lms-nextjs-navy.vercel.app/)
-Modern SaaS LMS built with Next.js and Supabase.  
-Authentication, protected routes and production-ready structure.  
-**Next.js · Supabase · Tailwind · SaaS Architecture**
+# What I Do
+
+🟣 UX Research
+
+🟣 User Experience Design
+
+🟣 User Interface Design
+
+🟣 Design Systems
+
+🟣 Frontend Development
+
+🟣 Accessibility
+
+🟣 Responsive Web
+
+🟣 Interaction Design
 
 ---
 
-### ✅ [TaskFlow](https://paskuvan.github.io/taskflow/)
-Task management application implementing Object-Oriented Programming principles.  
-Clean component architecture and state handling.  
-**React · Tailwind · Modular Architecture**
+# Tech Stack
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres"/>
+
+</p>
+
+## Design
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+
+</p>
 
 ---
 
-### 🎓 [Learning React](https://learning-reactjs-sigma.vercel.app/)
-Practical React project focused on reusable components and modern ES6 patterns.  
-**React · JavaScript ES6**
+# Featured Projects
+
+## 🟣 SignaJobs
+
+Employment platform designed for the Deaf community.
+
+React • TypeScript • TailwindCSS
 
 ---
 
-### 🌐 [Modern Web](https://paskuvan.github.io/modern-web/)
-Responsive website built with clean UI structure and frontend best practices.  
-**HTML · CSS · JavaScript**
+## 🟢 Converso
+
+Modern LMS built with Next.js and Supabase.
 
 ---
 
-### 🚀 [Landing React](https://landing-react-hvv2qmyca-paskuvans-projects.vercel.app/)
-High-conversion landing page focused on performance, animations and UI clarity.  
-**React · UI/UX · Performance Optimization**
+## 🔵 deaf.css
 
-### Featured projects
+CSS framework focused on accessibility.
 
-| Project | Description |
-|---|---|
-| 🌿 [**Palma**](https://github.com/paskuvan/palma) | Emergency SOS app for deaf people in Chile — one tap sends GPS to Carabineros |
-| 📦 [**deaf-css**](https://github.com/paskuvan/deaf-css) | CSS accessibility framework for the Deaf and hard-of-hearing community |
-| 🔊 [**Voz Inclusiva**](https://github.com/paskuvan/voz-inclusiva) | Text-to-speech web app built with Next.js + Python/FastAPI |
+---
 
+## 🟠 LSCh Recognition
 
+Computer Vision project for Chilean Sign Language recognition.
 
-## 📊GitHub Stats :
+---
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=paskuvan&show_icons=true&theme=radical)
+## ⚪ Miquiola
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=paskuvan&theme=radical)
+Handcrafted ceramics e-commerce.
 
+---
 
-## 🥇Top languages
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paskuvan&theme=aura_dark)
+# Design Principles
 
-## ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+♿ Accessibility First
 
+🎯 User-centered Design
 
+⚡ Performance Matters
+
+🧩 Simplicity over Complexity
+
+💜 Inclusive Experiences
+
+📚 Continuous Learning
+
+---
+
+# Currently
+
+- 🚀 Building projects with Next.js
+
+- 🎨 Improving my Portfolio
+
+- ✍️ Writing about Digital Accessibility
+
+- 🤖 Exploring AI for Designers
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=paskuvan&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paskuvan&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+<a href="https://paskuvan.us">Portfolio</a> •
+<a href="https://linkedin.com/in/paskuvan">LinkedIn</a> •
+<a href="https://github.com/paskuvan">GitHub</a> •
+<a href="https://behance.net/paskuvan">Behance</a> •
+<a href="https://instagram.com/ux.majo">Instagram</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 💜
+
+*"Design is not only how it looks. It's how everyone gets to experience it."*
+
+</div>
