@@ -6,6 +6,7 @@
 
 Designing digital experiences that are intuitive, inclusive, and built for everyone.
 
+
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge)](https://paskuvan.us)
@@ -16,6 +17,8 @@ Designing digital experiences that are intuitive, inclusive, and built for every
 </div>
 
 ---
+
+[![Chat-GPT-Image-2-jul-2026-00-24-37.png](https://i.postimg.cc/y6Sp9CWq/Chat-GPT-Image-2-jul-2026-00-24-37.png)](https://postimg.cc/7bwN8cgX)
 
 # About Me
 
@@ -142,18 +145,6 @@ Handcrafted ceramics e-commerce.
 - ✍️ Writing about Digital Accessibility
 
 - 🤖 Exploring AI for Designers
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=paskuvan&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paskuvan&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
 
 ---
 
