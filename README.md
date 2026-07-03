@@ -18,7 +18,7 @@ Designing digital experiences that are intuitive, inclusive, and built for every
 
 ---
 
-[![Chat-GPT-Image-2-jul-2026-00-24-37.png](https://i.postimg.cc/y6Sp9CWq/Chat-GPT-Image-2-jul-2026-00-24-37.png)](https://postimg.cc/7bwN8cgX)
+[![banner-github.png](https://i.postimg.cc/rw8Cc9yt/banner-github.png)](https://postimg.cc/WhHJwgk2)
 
 # About Me
 
