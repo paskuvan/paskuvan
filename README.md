@@ -1,13 +1,10 @@
 <div align="center">
 
-# Hi, I'm Majo Paskuvan 👋
+# Hi, I'm Majo Paskuvan 👋 
 
-### Frontend Developer • UX/UI Designer • Accessibility Advocate
-
-Designing digital experiences that are intuitive, inclusive, and built for everyone.
+<b>Frontend Developer • UX/UI Designer • Accessibility Advocate</b>
 
 
-<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge)](https://paskuvan.us)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/paskuvan)
@@ -16,43 +13,13 @@ Designing digital experiences that are intuitive, inclusive, and built for every
 
 </div>
 
----
+<br>
 
-[![banner-github.png](https://i.postimg.cc/rw8Cc9yt/banner-github.png)](https://postimg.cc/WhHJwgk2)
+[![paskuvan.png](https://i.postimg.cc/mDsf3hTf/paskuvan.png)](https://postimg.cc/XZQz4jZQ)
 
-# About Me
 
-I'm a Frontend Developer and UX/UI Designer based in Chile.
 
-For more than 10 years I've been creating digital products, interfaces and web experiences focused on usability, accessibility and clean design.
-
-I enjoy transforming complex problems into simple experiences through design systems, modern frontend technologies and user-centered thinking.
-
----
-
-# What I Do
-
-🟣 UX Research
-
-🟣 User Experience Design
-
-🟣 User Interface Design
-
-🟣 Design Systems
-
-🟣 Frontend Development
-
-🟣 Accessibility
-
-🟣 Responsive Web
-
-🟣 Interaction Design
-
----
-
-# Tech Stack
-
-## Frontend
+## 👩🏻‍💻 Frontend
 
 <p>
 
@@ -60,7 +27,8 @@ I enjoy transforming complex problems into simple experiences through design sys
 
 </p>
 
-## Backend
+
+## 🤖 Backend
 
 <p>
 
@@ -68,7 +36,8 @@ I enjoy transforming complex problems into simple experiences through design sys
 
 </p>
 
-## Design
+
+## 🖌️ Design
 
 <p>
 
@@ -76,7 +45,8 @@ I enjoy transforming complex problems into simple experiences through design sys
 
 </p>
 
-## Tools
+
+## 🔋 Tools
 
 <p>
 
@@ -84,88 +54,21 @@ I enjoy transforming complex problems into simple experiences through design sys
 
 </p>
 
----
 
-# Featured Projects
+## 📊 GitHub Stats 
+![](https://github-readme-stats.vercel.app/api?username=paskuvan&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=paskuvan&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paskuvan&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🟣 SignaJobs
 
-Employment platform designed for the Deaf community.
+## 🥇Top languages
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paskuvan&theme=aura_dark)
 
-React • TypeScript • TailwindCSS
 
----
+## ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br/>
 
-## 🟢 Converso
-
-Modern LMS built with Next.js and Supabase.
-
----
-
-## 🔵 deaf.css
-
-CSS framework focused on accessibility.
-
----
-
-## 🟠 LSCh Recognition
-
-Computer Vision project for Chilean Sign Language recognition.
-
----
-
-## ⚪ Miquiola
-
-Handcrafted ceramics e-commerce.
-
----
-
-# Design Principles
-
-♿ Accessibility First
-
-🎯 User-centered Design
-
-⚡ Performance Matters
-
-🧩 Simplicity over Complexity
-
-💜 Inclusive Experiences
-
-📚 Continuous Learning
-
----
-
-# Currently
-
-- 🚀 Building projects with Next.js
-
-- 🎨 Improving my Portfolio
-
-- ✍️ Writing about Digital Accessibility
-
-- 🤖 Exploring AI for Designers
-
----
-
-# Let's Connect
-
-<p align="center">
-
-<a href="https://paskuvan.us">Portfolio</a> •
-<a href="https://linkedin.com/in/paskuvan">LinkedIn</a> •
-<a href="https://github.com/paskuvan">GitHub</a> •
-<a href="https://behance.net/paskuvan">Behance</a> •
-<a href="https://instagram.com/ux.majo">Instagram</a>
-
-</p>
-
----
 
 <div align="center">
-
-### Thanks for visiting! 💜
-
-*"Design is not only how it looks. It's how everyone gets to experience it."*
 
 </div>
